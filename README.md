@@ -10,6 +10,8 @@ GIT Pages Link: https://ggrove87.github.io/Tech-Blog/
 
 GIT Repository Link: https://github.com/ggrove87/Tech-Blog
 
+Heroku Link: https://glacial-hamlet-40345.herokuapp.com/
+
 <br>
 
 ## User Story
@@ -68,8 +70,3 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 * JavaScript
 * Heroku
 
-
-## Mock-Up
-
-
-* Link to video demonstration: https://drive.google.com/file/d/1IkFzg_YDaF5bfpmXnwmzi0bgOvm4tS_Z/view
